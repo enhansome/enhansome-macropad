@@ -1,0 +1,769 @@
+{
+  "items": [
+    {
+      "description": "Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II (GitHub repository and Hackaday project page) by DeckerEgo. It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes example macros for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - Overview video",
+      "items": [],
+      "title": "MacroPad Hotkeys II"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PCB files",
+          "description": "in EagleCAD schematic format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-27T13:56:12Z",
+            "owner": "adafruit",
+            "repo": "Adafruit-MacroPad-RP2040-PCB",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacroPadSynthPlug",
+          "description": "is a small board that plugs into the StemmaQT port and gives you TRS-A MIDI In and Audio line out and allows it to be a stand-alone MIDI synth by todbot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-16T21:54:00Z",
+            "owner": "todbot",
+            "repo": "macropadsynthplug",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "MacroPad Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manage your MacroPad via a WebUI",
+          "description": "by MCHilli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-23T17:43:00Z",
+            "owner": "mchilli",
+            "repo": "macropad",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacroPad Configurator by AlexanderPotashko",
+          "description": "is a Windows application to configure your MacroPad. It can audo-detect your Macropad, manage multiple profiles, includes a visual editor and keyboard, includes 12 pre-configured macro templates, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-25T10:53:10Z",
+            "owner": "AlexanderPotashko",
+            "repo": "macropad-configurator",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Configuration Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The T9 Predictive MacroPad",
+          "description": "is available for a number of boards, including the Adafruit MacroPad by Guy Dupont.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-29T21:24:03Z",
+            "owner": "dupontgu",
+            "repo": "t9-macropad-circuitpython",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The MacroPad 4chord MIDI",
+          "description": "is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego. Demonstration Video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-09T23:58:07Z",
+            "owner": "deckerego",
+            "repo": "Macropad_4chord_MIDI",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App Pad",
+          "description": "An advanced port of Adafruit's MarcoPad application that adds switching macros by keys, OS-specific variants, double-tap support, and callback timers by kbaskett248.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-15T03:16:24Z",
+            "owner": "kbaskett248",
+            "repo": "adafruit_macropad",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacroPad-Sequencer",
+          "description": "by analogsketchbook, an 8-step MIDI sequencer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-08T13:40:42Z",
+            "owner": "analogsketchbook",
+            "repo": "Macropad-Sequencer",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Macro Hotkeys + Extensions",
+          "description": "Modified version of Adafruit's Hotkeys script. Includes a Pomodoro timer, Bongo Cat and support to write your own extensions. By notnavindu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T11:23:59Z",
+            "owner": "notnavindu",
+            "repo": "macropad-os",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bongo Cat",
+          "description": "by christanaka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-22T04:24:32Z",
+            "owner": "christanaka",
+            "repo": "circuitpython-bongo",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeePad",
+          "description": "by trickeydan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-27T17:34:51Z",
+            "owner": "trickeydan",
+            "repo": "beepad",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacroPad Automation and Application Detector",
+          "description": "is a Windows application that detects the currently active window and automatically switches to the appropriate set of macros for that application by xhargh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-10T10:28:22Z",
+            "owner": "xhargh",
+            "repo": "MacropadApplicationDetector",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multiple MarcoPad Apps",
+          "description": "by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T17:36:07Z",
+            "owner": "ondras",
+            "repo": "macropad",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Broadcaster Software (OBS",
+          "description": ") by djotaku",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-13T20:49:08Z",
+            "owner": "djotaku",
+            "repo": "macropad_rp2040_hotkeys",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyCurrentWindow",
+          "description": "automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-11T00:49:14Z",
+            "owner": "astridos2go",
+            "repo": "PyCurrentWindow",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "METAR Display and airport status",
+          "description": "by flyinactor91",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-07T01:09:08Z",
+            "owner": "devdupont",
+            "repo": "metarpad",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HP35 Calculator",
+          "description": "by funkfinger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-16T04:15:56Z",
+            "owner": "funkfinger",
+            "repo": "adafruit-macropad-hp-35-calc",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacroSynth",
+          "description": ", a basic osc synthesizer using Todbot's MacroPadSynthPlug by obtusecanadiangoose",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-25T14:13:13Z",
+            "owner": "obtusecanadiangoose",
+            "repo": "macrosynth",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WOLFPUNK Chord Machine",
+          "description": "by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-15T11:53:49Z",
+            "owner": "wolfpunk25",
+            "repo": "wolfpunk-chords",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIDI Launchgrid",
+          "description": "by zoul0813",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-05T19:09:33Z",
+            "owner": "zoul0813",
+            "repo": "adafruit-launchgrid",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homebridge-macropad",
+          "description": "by maximkulkin is a Homebridge plugin to integrate an Adafruit rp2040 MacroPad into HomeKit using TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-18T19:03:54Z",
+            "owner": "maximkulkin",
+            "repo": "homebridge-macropad",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The MacropadPyDemo is a rewrite of the Arduino demo in CircuitPython",
+          "description": "by haugenmitch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-09T07:27:18Z",
+            "owner": "haugenmitch",
+            "repo": "MacropadPyDemo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Send MIDI commands to a loop pedal using the Adafruit MacroPad with MIDILooper",
+          "description": "by dxinteractive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-06T09:22:13Z",
+            "owner": "dxinteractive",
+            "repo": "macropad-midilooper",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BuildPad",
+          "description": "by willgorman, a build automation tool for viewing and launching Jenkins jobs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-11-25T02:46:32Z",
+            "owner": "willgorman",
+            "repo": "buildpad",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A CHIP-8 emulator",
+          "description": "for the Adafruit MacroPad by cubbagesj",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-05T12:44:33Z",
+            "owner": "cubbagesj",
+            "repo": "macropad_CHIP8",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudfx by Wchesher",
+          "description": "turns two Adafruit devices into a sound effect and macro controller system, such as a MacroPad and FunHouse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T20:26:53Z",
+            "owner": "wchesher",
+            "repo": "cloudfx",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multiple Timers",
+          "description": "by alpiepho, a timer application that implements a set of 12 independent timers.",
+          "children": []
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game of Life",
+          "description": "by stelly-dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-16T17:24:47Z",
+            "owner": "stelly-dev",
+            "repo": "game_of_life_adafruit_macropad",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tic-Tac-Toe",
+          "description": "by robotastic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-08T01:12:41Z",
+            "owner": "robotastic",
+            "repo": "macropad-tic-tac-toe",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Macro Whack",
+          "description": ", a whack-a-mole style game for the MacroPad) by Cory Lucas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-19T13:13:45Z",
+            "owner": "coryflucas",
+            "repo": "macro-whack",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrainMAX",
+          "description": "by omixen, a math game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-08T20:58:45Z",
+            "owner": "omixen",
+            "repo": "macropad-math-game",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A funny vulnerability demonstration",
+          "description": "for unlocked and unattended Windows workstations by nihilexmachina.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-06T15:30:05Z",
+            "owner": "prcutler",
+            "repo": "awesome-macropad",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom",
+          "description": "by deckerego",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-03T13:59:33Z",
+            "owner": "deckerego",
+            "repo": "Macropad_Hotkeys",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Macros including a universal numpad, macOS media control keys, Zoom, and Webex macros",
+          "description": "by armccoy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T16:26:40Z",
+            "owner": "armccoy",
+            "repo": "macropad-rp2040-hotkeys",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of macros for Windows and macOS that includes a universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more",
+          "description": "by armccoy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T16:26:40Z",
+            "owner": "armccoy",
+            "repo": "macropad-rp2040-hotkeys",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube macros for Microsoft Windows",
+          "description": "by DJDevon3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-26T17:37:42Z",
+            "owner": "DJDevon3",
+            "repo": "My_Circuit_Python_Projects",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim Macros",
+          "description": "by Cristina Solana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-08T19:50:15Z",
+            "owner": "CristinaSolana",
+            "repo": "adafruit-macropad-vim-macros",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS macros for Evernote, Illustrator, Photoshop, Safari, Slack, Twitter, Zoom, and more",
+          "description": "by andypiper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-21T21:32:39Z",
+            "owner": "andypiper",
+            "repo": "ada-macropad",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bettermacrosforadafruitmacropad",
+          "description": "adds the ability to show an image when changing macros by couchpotatochip21.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-19T03:35:01Z",
+            "owner": "couchpotatochip21",
+            "repo": "bettermacrosforadafruitmacropad",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Macros by Ondra",
+          "description": "for git workflows, DaVinci Resolve color grading, playing MIDI chords, and the game Elite: Dangerous.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T17:36:07Z",
+            "owner": "ondras",
+            "repo": "macropad",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Teams, YouTube, Number Pad and Zoom",
+          "description": "by de-mon (Tested on Windows)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-09T17:07:55Z",
+            "owner": "de-mon",
+            "repo": "ADA-MacroPad",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generic Windows commands and KiCad",
+          "description": "by AlpenglowIndustries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-29T20:26:23Z",
+            "owner": "AlpenglowIndustries",
+            "repo": "Adafruit_MacroPad_Hotkeys",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fusion360 macros",
+          "description": "by schneik80.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-19T19:11:26Z",
+            "owner": "schneik80",
+            "repo": "Macropad-fusion",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A collection of macros for Windows and Linux by nylar357",
+          "description": "including GitHub, Firefox, Sleep, Twitter, Vim, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-03T09:27:16Z",
+            "owner": "nylar357",
+            "repo": "Macropad_Custom",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Final Fantasy XIV",
+          "description": "by Radical Dreamr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-17T22:34:17Z",
+            "owner": "Radical-Dreamr",
+            "repo": "adafruit_macropad_ffxiv",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple macro profile for Kicad",
+          "description": "designed to keep one hand on the macropad and your other hand on your mouse when in the PCB editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-27T20:14:10Z",
+            "owner": "corndog2000",
+            "repo": "RP2040-MACROPAD-KICAD",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Macros"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fruity Menu",
+          "description": "is a library for building simple UI menus for CircuitPython powered devices, including the rp2040 MacroPad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-02T20:39:39Z",
+            "owner": "greatest-gatsby",
+            "repo": "fruity_menu",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Put your MacroPad to sleep after 5 minutes",
+          "description": "by m-eldin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-18T19:07:43Z",
+            "owner": "M-Eldin",
+            "repo": "Adafruit-MacroPad-RP2040-Sleep",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A refactored implementation",
+          "description": "of the MacroPad helper library by rossmoody",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-03T04:34:29Z",
+            "owner": "rossmoody",
+            "repo": "macropad-hotkeys",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroPython Board Support",
+          "description": "by mp-extras",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-22T04:00:17Z",
+            "owner": "mp-extras",
+            "repo": "ADAFRUIT_MACROPAD",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mgogo",
+          "description": "is a library to convert Adafruit MacroPad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-17T13:31:23Z",
+            "owner": "calbert1209",
+            "repo": "mgogo",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome MacroPad.\nImposter syndrome disclaimer: I want your help. No really, I do.\nThere might be a little voice inside that tells you you're not ready; that you need to do one more tutorial, or learn another framework, or write a few more blog posts before you can help me with this project.\nI assure you, that's not the case.\nThe contribution guidelines below outline the process that you'll need to follow to get a patch merged. By making expectations and process explicit, I hope it will make it easier for you to contribute.\nThank you for contributing!\nThe workflow is similar to the one explained in detail here for CircuitPython: Adafruit : Contribute to CircuitPython with Git and GitHub.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\n\nLast Updated: July 6, 2026",
+      "items": [],
+      "title": "License & Trademarks"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:23:21.354Z",
+    "original_repository": "prcutler/awesome-macropad",
+    "original_repository_sha": "f8dd814b687e07f3a70b14489b8f8f446cb20a77",
+    "enhanced_repository": "enhansome/enhansome-macropad",
+    "enhanced_repository_description": null,
+    "title": "Awesome macropad with stars"
+  }
+}
