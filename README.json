@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II (GitHub repository and Hackaday project page) by DeckerEgo. It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes example macros for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - Overview video",
-      "items": [],
-      "title": "MacroPad Hotkeys II"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381779103,
             "language": null,
             "last_commit": "2024-06-27T13:56:12Z",
             "owner": "adafruit",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578806735,
             "language": "Python",
             "last_commit": "2025-05-16T21:54:00Z",
             "owner": "todbot",
@@ -40,7 +37,7 @@
       "title": "MacroPad Hardware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -49,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702299962,
             "language": "JavaScript",
             "last_commit": "2026-02-23T17:43:00Z",
             "owner": "mchilli",
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122715509,
             "language": "JavaScript",
             "last_commit": "2025-12-25T10:53:10Z",
             "owner": "AlexanderPotashko",
@@ -74,7 +73,7 @@
       "title": "Configuration Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -83,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 366512758,
             "language": "Kotlin",
             "last_commit": "2026-05-29T21:24:03Z",
             "owner": "dupontgu",
@@ -97,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411073365,
             "language": "Python",
             "last_commit": "2025-11-09T23:58:07Z",
             "owner": "deckerego",
@@ -111,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411100197,
             "language": "Python",
             "last_commit": "2023-01-15T03:16:24Z",
             "owner": "kbaskett248",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400607079,
             "language": "Python",
             "last_commit": "2022-05-08T13:40:42Z",
             "owner": "analogsketchbook",
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 584113393,
             "language": "Python",
             "last_commit": "2026-05-31T11:23:59Z",
             "owner": "notnavindu",
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409018231,
             "language": "Python",
             "last_commit": "2021-09-22T04:24:32Z",
             "owner": "christanaka",
@@ -167,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421913855,
             "language": "Python",
             "last_commit": "2021-10-27T17:34:51Z",
             "owner": "trickeydan",
@@ -181,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 494792896,
             "language": "Python",
             "last_commit": "2022-06-10T10:28:22Z",
             "owner": "xhargh",
@@ -195,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 726452823,
             "language": "Python",
             "last_commit": "2025-12-14T17:36:07Z",
             "owner": "ondras",
@@ -209,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391727309,
             "language": "Python",
             "last_commit": "2023-03-13T20:49:08Z",
             "owner": "djotaku",
@@ -223,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540175215,
             "language": "Python",
             "last_commit": "2023-05-11T00:49:14Z",
             "owner": "astridos2go",
@@ -237,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392880474,
             "language": "Python",
             "last_commit": "2021-08-07T01:09:08Z",
             "owner": "devdupont",
@@ -251,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427096815,
             "language": "C",
             "last_commit": "2021-11-16T04:15:56Z",
             "owner": "funkfinger",
@@ -265,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 829085990,
             "language": "Python",
             "last_commit": "2024-08-25T14:13:13Z",
             "owner": "obtusecanadiangoose",
@@ -279,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1002394195,
             "language": "Python",
             "last_commit": "2025-06-15T11:53:49Z",
             "owner": "wolfpunk25",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392777335,
             "language": "Python",
             "last_commit": "2021-08-05T19:09:33Z",
             "owner": "zoul0813",
@@ -307,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522282580,
             "language": "TypeScript",
             "last_commit": "2022-08-18T19:03:54Z",
             "owner": "maximkulkin",
@@ -321,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 711320688,
             "language": "Python",
             "last_commit": "2023-12-09T07:27:18Z",
             "owner": "haugenmitch",
@@ -335,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 840587239,
             "language": "Python",
             "last_commit": "2024-10-06T09:22:13Z",
             "owner": "dxinteractive",
@@ -349,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391455736,
             "language": "Go",
             "last_commit": "2021-11-25T02:46:32Z",
             "owner": "willgorman",
@@ -363,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 833356821,
             "language": "Python",
             "last_commit": "2024-08-05T12:44:33Z",
             "owner": "cubbagesj",
@@ -377,24 +397,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1082600983,
             "language": "Python",
             "last_commit": "2025-11-14T20:26:53Z",
             "owner": "wchesher",
             "repo": "cloudfx",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Multiple Timers",
-          "description": "by alpiepho, a timer application that implements a set of 12 independent timers.",
-          "children": []
         }
       ],
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -403,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 396585851,
             "language": "Python",
             "last_commit": "2021-08-16T17:24:47Z",
             "owner": "stelly-dev",
@@ -417,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400166987,
             "language": "Python",
             "last_commit": "2021-09-08T01:12:41Z",
             "owner": "robotastic",
@@ -431,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 390350838,
             "language": "Python",
             "last_commit": "2025-09-19T13:13:45Z",
             "owner": "coryflucas",
@@ -445,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393872989,
             "language": "Python",
             "last_commit": "2021-08-08T20:58:45Z",
             "owner": "omixen",
@@ -456,7 +475,7 @@
       "title": "Games"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -465,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434300126,
             "language": null,
             "last_commit": "2026-07-06T15:30:05Z",
             "owner": "prcutler",
@@ -479,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404501727,
             "language": "Python",
             "last_commit": "2026-05-03T13:59:33Z",
             "owner": "deckerego",
@@ -493,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421525646,
             "language": "Python",
             "last_commit": "2026-05-04T16:26:40Z",
             "owner": "armccoy",
@@ -507,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421525646,
             "language": "Python",
             "last_commit": "2026-05-04T16:26:40Z",
             "owner": "armccoy",
@@ -521,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629565919,
             "language": "Python",
             "last_commit": "2025-07-26T17:37:42Z",
             "owner": "DJDevon3",
@@ -535,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393733848,
             "language": "Python",
             "last_commit": "2021-08-08T19:50:15Z",
             "owner": "CristinaSolana",
@@ -549,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448109125,
             "language": "Python",
             "last_commit": "2024-05-21T21:32:39Z",
             "owner": "andypiper",
@@ -563,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582853089,
             "language": "Python",
             "last_commit": "2024-01-19T03:35:01Z",
             "owner": "couchpotatochip21",
@@ -577,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 726452823,
             "language": "Python",
             "last_commit": "2025-12-14T17:36:07Z",
             "owner": "ondras",
@@ -591,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394372000,
             "language": "Python",
             "last_commit": "2021-08-09T17:07:55Z",
             "owner": "de-mon",
@@ -605,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421619745,
             "language": "Python",
             "last_commit": "2021-10-29T20:26:23Z",
             "owner": "AlpenglowIndustries",
@@ -619,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449481267,
             "language": "Python",
             "last_commit": "2023-02-19T19:11:26Z",
             "owner": "schneik80",
@@ -633,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776136812,
             "language": "Python",
             "last_commit": "2025-12-03T09:27:16Z",
             "owner": "nylar357",
@@ -647,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 397402422,
             "language": "Python",
             "last_commit": "2021-08-17T22:34:17Z",
             "owner": "Radical-Dreamr",
@@ -661,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 683823951,
             "language": "Python",
             "last_commit": "2023-08-27T20:14:10Z",
             "owner": "corndog2000",
@@ -672,7 +706,7 @@
       "title": "Macros"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -681,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433659883,
             "language": "Python",
             "last_commit": "2024-05-02T20:39:39Z",
             "owner": "greatest-gatsby",
@@ -695,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457438878,
             "language": "Python",
             "last_commit": "2022-02-18T19:07:43Z",
             "owner": "M-Eldin",
@@ -709,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498187513,
             "language": "Python",
             "last_commit": "2022-06-03T04:34:29Z",
             "owner": "rossmoody",
@@ -723,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398706586,
             "language": "Python",
             "last_commit": "2021-08-22T04:00:17Z",
             "owner": "mp-extras",
@@ -737,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881926843,
             "language": "Python",
             "last_commit": "2024-11-17T13:31:23Z",
             "owner": "calbert1209",
@@ -746,21 +785,12 @@
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": "Contributions and suggestions are always welcome! Please make pull requests from your own fork to modify Awesome MacroPad.\nImposter syndrome disclaimer: I want your help. No really, I do.\nThere might be a little voice inside that tells you you're not ready; that you need to do one more tutorial, or learn another framework, or write a few more blog posts before you can help me with this project.\nI assure you, that's not the case.\nThe contribution guidelines below outline the process that you'll need to follow to get a patch merged. By making expectations and process explicit, I hope it will make it easier for you to contribute.\nThank you for contributing!\nThe workflow is similar to the one explained in detail here for CircuitPython: Adafruit : Contribute to CircuitPython with Git and GitHub.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\n\nLast Updated: July 6, 2026",
-      "items": [],
-      "title": "License & Trademarks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:55:32.821Z",
+    "last_updated": "2026-08-19T12:37:36.987Z",
     "original_repository": "prcutler/awesome-macropad",
+    "original_repository_id": 434300126,
     "original_repository_sha": "f8dd814b687e07f3a70b14489b8f8f446cb20a77",
     "enhanced_repository": "enhansome/enhansome-macropad",
     "enhanced_repository_description": null,
