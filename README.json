@@ -788,9 +788,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:02:43.087Z",
-    "original_repository": "prcutler/awesome-macropad",
-    "original_repository_id": 434300126,
+    "last_updated": "2026-08-27T11:54:16.149Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 434300126,
+      "language": null,
+      "last_commit": "2026-07-06T15:30:05Z",
+      "owner": "prcutler",
+      "repo": "awesome-macropad",
+      "stars": 358
+    },
     "original_repository_sha": "f8dd814b687e07f3a70b14489b8f8f446cb20a77",
     "enhanced_repository": "enhansome/enhansome-macropad",
     "enhanced_repository_description": null,
