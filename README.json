@@ -16,7 +16,8 @@
             "owner": "adafruit",
             "repo": "Adafruit-MacroPad-RP2040-PCB",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "todbot",
             "repo": "macropadsynthplug",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         }
       ],
       "title": "MacroPad Hardware"
@@ -52,7 +54,8 @@
             "owner": "mchilli",
             "repo": "macropad",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "AlexanderPotashko",
             "repo": "macropad-configurator",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         }
       ],
       "title": "Configuration Utilities"
@@ -88,7 +92,8 @@
             "owner": "dupontgu",
             "repo": "t9-macropad-circuitpython",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "deckerego",
             "repo": "Macropad_4chord_MIDI",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "kbaskett248",
             "repo": "adafruit_macropad",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "analogsketchbook",
             "repo": "Macropad-Sequencer",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "notnavindu",
             "repo": "macropad-os",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "christanaka",
             "repo": "circuitpython-bongo",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "trickeydan",
             "repo": "beepad",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "xhargh",
             "repo": "MacropadApplicationDetector",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "ondras",
             "repo": "macropad",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "djotaku",
             "repo": "macropad_rp2040_hotkeys",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "astridos2go",
             "repo": "PyCurrentWindow",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "devdupont",
             "repo": "metarpad",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "funkfinger",
             "repo": "adafruit-macropad-hp-35-calc",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "obtusecanadiangoose",
             "repo": "macrosynth",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "wolfpunk25",
             "repo": "wolfpunk-chords",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "zoul0813",
             "repo": "adafruit-launchgrid",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "maximkulkin",
             "repo": "homebridge-macropad",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "haugenmitch",
             "repo": "MacropadPyDemo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "dxinteractive",
             "repo": "macropad-midilooper",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "willgorman",
             "repo": "buildpad",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "cubbagesj",
             "repo": "macropad_CHIP8",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "wchesher",
             "repo": "cloudfx",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         }
       ],
       "title": "Applications"
@@ -424,7 +450,8 @@
             "owner": "stelly-dev",
             "repo": "game_of_life_adafruit_macropad",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "robotastic",
             "repo": "macropad-tic-tac-toe",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "coryflucas",
             "repo": "macro-whack",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "omixen",
             "repo": "macropad-math-game",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         }
       ],
       "title": "Games"
@@ -490,7 +520,8 @@
             "owner": "prcutler",
             "repo": "awesome-macropad",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "deckerego",
             "repo": "Macropad_Hotkeys",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "armccoy",
             "repo": "macropad-rp2040-hotkeys",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "armccoy",
             "repo": "macropad-rp2040-hotkeys",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "DJDevon3",
             "repo": "My_Circuit_Python_Projects",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "CristinaSolana",
             "repo": "adafruit-macropad-vim-macros",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "andypiper",
             "repo": "ada-macropad",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -595,7 +632,8 @@
             "owner": "couchpotatochip21",
             "repo": "bettermacrosforadafruitmacropad",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -610,7 +648,8 @@
             "owner": "ondras",
             "repo": "macropad",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "de-mon",
             "repo": "ADA-MacroPad",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "AlpenglowIndustries",
             "repo": "Adafruit_MacroPad_Hotkeys",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -655,7 +696,8 @@
             "owner": "schneik80",
             "repo": "Macropad-fusion",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -670,7 +712,8 @@
             "owner": "nylar357",
             "repo": "Macropad_Custom",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -685,7 +728,8 @@
             "owner": "Radical-Dreamr",
             "repo": "adafruit_macropad_ffxiv",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -700,7 +744,8 @@
             "owner": "corndog2000",
             "repo": "RP2040-MACROPAD-KICAD",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         }
       ],
       "title": "Macros"
@@ -721,7 +766,8 @@
             "owner": "greatest-gatsby",
             "repo": "fruity_menu",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -736,7 +782,8 @@
             "owner": "M-Eldin",
             "repo": "Adafruit-MacroPad-RP2040-Sleep",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -751,7 +798,8 @@
             "owner": "rossmoody",
             "repo": "macropad-hotkeys",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -766,7 +814,8 @@
             "owner": "mp-extras",
             "repo": "ADAFRUIT_MACROPAD",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         },
         {
           "node_type": "item",
@@ -781,14 +830,15 @@
             "owner": "calbert1209",
             "repo": "mgogo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:16.149Z",
+    "last_updated": "2026-08-28T05:36:11.611Z",
     "original_repository_info": {
       "archived": false,
       "id": 434300126,
