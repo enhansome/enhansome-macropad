@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EagleCAD PCB files for Adafruit MacroPad RP2040.",
+            "homepage": null,
             "id": 381779103,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-06-27T13:56:12Z",
+            "open_issues": 0,
             "owner": "adafruit",
             "repo": "Adafruit-MacroPad-RP2040-PCB",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn StemmaQT port by into Audio Out + MIDI In ",
+            "homepage": null,
             "id": 578806735,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-05-16T21:54:00Z",
+            "open_issues": 0,
             "owner": "todbot",
             "repo": "macropadsynthplug",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         }
@@ -48,12 +58,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an Adafruit MacroPad script that allows you to manage your macros via a WebUI",
+            "homepage": "https://mchilli.github.io/macropad/",
             "id": 702299962,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-23T17:43:00Z",
+            "open_issues": 1,
             "owner": "mchilli",
             "repo": "macropad",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "adafruit",
+              "adafruit-macropad",
+              "circuitpython",
+              "macropad",
+              "macropad-hotkeys",
+              "macros",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -64,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop application for configuring Adafruit MacroPad RP2040 macro keyboard.",
+            "homepage": null,
             "id": 1122715509,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-25T10:53:10Z",
+            "open_issues": 0,
             "owner": "AlexanderPotashko",
             "repo": "macropad-configurator",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         }
@@ -86,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CircuitPython 'app' to turn a 12-key macropad into a T9 \"predictive text\" keyboard.",
+            "homepage": null,
             "id": 366512758,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-29T21:24:03Z",
+            "open_issues": 4,
             "owner": "dupontgu",
             "repo": "t9-macropad-circuitpython",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -102,12 +135,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A take on the 4chord MIDI project with the Adafruit Macropad",
+            "homepage": "https://hackaday.io/project/181967-macropad-4chord-midi",
             "id": 411073365,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2025-11-09T23:58:07Z",
+            "open_issues": 1,
             "owner": "deckerego",
             "repo": "Macropad_4chord_MIDI",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "adafruit",
+              "circuitpython",
+              "macropad",
+              "midi",
+              "midi-controller",
+              "music-player",
+              "music-theory",
+              "neopixel",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -118,12 +166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 411100197,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-15T03:16:24Z",
+            "open_issues": 8,
             "owner": "kbaskett248",
             "repo": "adafruit_macropad",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -134,12 +187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "8-step MIDI sequencer to run on an Adafruit Macropad",
+            "homepage": null,
             "id": 400607079,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-08T13:40:42Z",
+            "open_issues": 0,
             "owner": "analogsketchbook",
             "repo": "Macropad-Sequencer",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -150,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 584113393,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-31T11:23:59Z",
+            "open_issues": 1,
             "owner": "notnavindu",
             "repo": "macropad-os",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -166,12 +229,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cute bongo cat for your display.",
+            "homepage": null,
             "id": 409018231,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-22T04:24:32Z",
+            "open_issues": 1,
             "owner": "christanaka",
             "repo": "circuitpython-bongo",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "circuitpython"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -182,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A MacroPad full of bees. Based on the Adafruit RP2040 Macropad",
+            "homepage": null,
             "id": 421913855,
             "language": "Python",
+            "license": "EUPL-1.2",
             "last_commit": "2021-10-27T17:34:51Z",
+            "open_issues": 0,
             "owner": "trickeydan",
             "repo": "beepad",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -198,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 494792896,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-10T10:28:22Z",
+            "open_issues": 0,
             "owner": "xhargh",
             "repo": "MacropadApplicationDetector",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -214,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Adafruit Macropad setup",
+            "homepage": null,
             "id": 726452823,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-14T17:36:07Z",
+            "open_issues": 0,
             "owner": "ondras",
             "repo": "macropad",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -230,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Macros for the Adafruit Macropad RP2040 as well as program code",
+            "homepage": null,
             "id": 391727309,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-13T20:49:08Z",
+            "open_issues": 0,
             "owner": "djotaku",
             "repo": "macropad_rp2040_hotkeys",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -246,12 +336,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python program meant to send the current window to my Adafruit Macropad",
+            "homepage": null,
             "id": 540175215,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-11T00:49:14Z",
+            "open_issues": 6,
             "owner": "astridos2go",
             "repo": "PyCurrentWindow",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "python",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -262,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "METAR Display for the Adafruit MacroPad",
+            "homepage": null,
             "id": 392880474,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-07T01:09:08Z",
+            "open_issues": 0,
             "owner": "devdupont",
             "repo": "metarpad",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -278,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 427096815,
             "language": "C",
+            "license": null,
             "last_commit": "2021-11-16T04:15:56Z",
+            "open_issues": 0,
             "owner": "funkfinger",
             "repo": "adafruit-macropad-hp-35-calc",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -294,12 +402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A synth for the Adafruit MacroPad RP2040 using TodBot's Synthplug for audio out",
+            "homepage": null,
             "id": 829085990,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-25T14:13:13Z",
+            "open_issues": 0,
             "owner": "obtusecanadiangoose",
             "repo": "macrosynth",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -310,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "USB midi chord machine for Adafruit Macropad",
+            "homepage": null,
             "id": 1002394195,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-15T11:53:49Z",
+            "open_issues": 0,
             "owner": "wolfpunk25",
             "repo": "wolfpunk-chords",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -326,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MIDI Launchgrid built with Adafruit Macropad, NeoTrellis and more.",
+            "homepage": null,
             "id": 392777335,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-05T19:09:33Z",
+            "open_issues": 0,
             "owner": "zoul0813",
             "repo": "adafruit-launchgrid",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -342,12 +465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HomeBridge plugin to expose Adafruit RP2040 MacroPad as a number of HomeKit stateless switches",
+            "homepage": null,
             "id": 522282580,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-08-18T19:03:54Z",
+            "open_issues": 0,
             "owner": "maximkulkin",
             "repo": "homebridge-macropad",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -358,12 +486,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CircuitPython translation of the default Macropad RP2040 Arduino demo.",
+            "homepage": null,
             "id": 711320688,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-09T07:27:18Z",
+            "open_issues": 0,
             "owner": "haugenmitch",
             "repo": "MacropadPyDemo",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "adafruit",
+              "adafruit-macropad",
+              "adafruit-rp2040",
+              "circuitpython",
+              "demo",
+              "macropad",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -374,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to send MIDI to a loop pedal using the Adafruit RP2040 Macropad",
+            "homepage": null,
             "id": 840587239,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-06T09:22:13Z",
+            "open_issues": 0,
             "owner": "dxinteractive",
             "repo": "macropad-midilooper",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -390,12 +536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View and launch Jenkins jobs from a AdaFruit MacroPad RP2040",
+            "homepage": null,
             "id": 391455736,
             "language": "Go",
+            "license": null,
             "last_commit": "2021-11-25T02:46:32Z",
+            "open_issues": 0,
             "owner": "willgorman",
             "repo": "buildpad",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -406,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CHIP8 interpreter in circuitpython for Adafruit macropad",
+            "homepage": null,
             "id": 833356821,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-05T12:44:33Z",
+            "open_issues": 0,
             "owner": "cubbagesj",
             "repo": "macropad_CHIP8",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -422,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cloudfx is a dual-device sound effect control system using Adafruit MacroPad and the Adafruit FunHouse with CircuitPython for live sound effects and remote command execution.",
+            "homepage": null,
             "id": 1082600983,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-14T20:26:53Z",
+            "open_issues": 0,
             "owner": "wchesher",
             "repo": "cloudfx",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         }
@@ -444,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple game of life toy for the adafruit macropad, written in circuit python",
+            "homepage": null,
             "id": 396585851,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-16T17:24:47Z",
+            "open_issues": 0,
             "owner": "stelly-dev",
             "repo": "game_of_life_adafruit_macropad",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -460,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tic Tac Toe on the Adafruit MacroPad",
+            "homepage": null,
             "id": 400166987,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-09-08T01:12:41Z",
+            "open_issues": 1,
             "owner": "robotastic",
             "repo": "macropad-tic-tac-toe",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -476,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A little whack-a-mole style game for the Adafruit MacroPad built with Circuit Python",
+            "homepage": null,
             "id": 390350838,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-19T13:13:45Z",
+            "open_issues": 0,
             "owner": "coryflucas",
             "repo": "macro-whack",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -492,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Math Game on Adafruit MacroPad built with CircuitPython",
+            "homepage": null,
             "id": 393872989,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-08T20:58:45Z",
+            "open_issues": 0,
             "owner": "omixen",
             "repo": "macropad-math-game",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         }
@@ -514,12 +695,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
+            "homepage": null,
             "id": 434300126,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-06T15:30:05Z",
+            "open_issues": 0,
             "owner": "prcutler",
             "repo": "awesome-macropad",
-            "stars": 358
+            "stars": 358,
+            "topics": [
+              "3d-printing",
+              "adafruit",
+              "awesome",
+              "awesome-list",
+              "circuitpython",
+              "macropad",
+              "macros",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -530,12 +725,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible hotkey macropad inspired by the Macropad Hotkeys example from the Adafruit Learning System Guide",
+            "homepage": "https://hackaday.io/project/181969-macropad-hotkeys-ii",
             "id": 404501727,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-03T13:59:33Z",
+            "open_issues": 0,
             "owner": "deckerego",
             "repo": "Macropad_Hotkeys",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "adafruit",
+              "circuitpython",
+              "keyboard",
+              "macropad",
+              "neopixel",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -546,12 +753,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of hotkey macros for the Adafruit Macropad RP2040",
+            "homepage": null,
             "id": 421525646,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-04T16:26:40Z",
+            "open_issues": 0,
             "owner": "armccoy",
             "repo": "macropad-rp2040-hotkeys",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "adafruit",
+              "mechanical-keyboard",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -562,12 +778,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of hotkey macros for the Adafruit Macropad RP2040",
+            "homepage": null,
             "id": 421525646,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-04T16:26:40Z",
+            "open_issues": 0,
             "owner": "armccoy",
             "repo": "macropad-rp2040-hotkeys",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "adafruit",
+              "mechanical-keyboard",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -578,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Projects using Adafruit's Circuit Python coding language",
+            "homepage": null,
             "id": 629565919,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-26T17:37:42Z",
+            "open_issues": 0,
             "owner": "DJDevon3",
             "repo": "My_Circuit_Python_Projects",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -594,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 393733848,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-08T19:50:15Z",
+            "open_issues": 0,
             "owner": "CristinaSolana",
             "repo": "adafruit-macropad-vim-macros",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -610,12 +845,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The configuration for my Adafruit Macropad RP2040",
+            "homepage": "https://learn.adafruit.com/macropad-hotkeys/custom-configurations",
             "id": 448109125,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-21T21:32:39Z",
+            "open_issues": 3,
             "owner": "andypiper",
             "repo": "ada-macropad",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "adafruit",
+              "circuitpython",
+              "hardware",
+              "keypad",
+              "macropad",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -626,12 +873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 582853089,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-19T03:35:01Z",
+            "open_issues": 0,
             "owner": "couchpotatochip21",
             "repo": "bettermacrosforadafruitmacropad",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -642,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Adafruit Macropad setup",
+            "homepage": null,
             "id": 726452823,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-14T17:36:07Z",
+            "open_issues": 0,
             "owner": "ondras",
             "repo": "macropad",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -658,12 +915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AdaFruit MacroPad Scripts",
+            "homepage": null,
             "id": 394372000,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-09T17:07:55Z",
+            "open_issues": 0,
             "owner": "de-mon",
             "repo": "ADA-MacroPad",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -674,12 +936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizations for the Adafruit MacroPad",
+            "homepage": null,
             "id": 421619745,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-29T20:26:23Z",
+            "open_issues": 0,
             "owner": "AlpenglowIndustries",
             "repo": "Adafruit_MacroPad_Hotkeys",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -690,12 +957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adafruit Macropad macros for Fusion 360.",
+            "homepage": null,
             "id": 449481267,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-19T19:11:26Z",
+            "open_issues": 0,
             "owner": "schneik80",
             "repo": "Macropad-fusion",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -706,12 +978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adafruit Macropad Custom Macros",
+            "homepage": null,
             "id": 776136812,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-03T09:27:16Z",
+            "open_issues": 0,
             "owner": "nylar357",
             "repo": "Macropad_Custom",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -722,12 +999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic macropad hotkey template for Final Fantasy XIV (FFXIV) and the Adafruit RP2040 Macropad using CircuitPython",
+            "homepage": null,
             "id": 397402422,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-17T22:34:17Z",
+            "open_issues": 0,
             "owner": "Radical-Dreamr",
             "repo": "adafruit_macropad_ffxiv",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -738,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 683823951,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-27T20:14:10Z",
+            "open_issues": 0,
             "owner": "corndog2000",
             "repo": "RP2040-MACROPAD-KICAD",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         }
@@ -760,12 +1047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple menu library for CircuitPython devices, designed for Adafruit RP2040 macropad.",
+            "homepage": null,
             "id": 433659883,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2024-05-02T20:39:39Z",
+            "open_issues": 1,
             "owner": "greatest-gatsby",
             "repo": "fruity_menu",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -776,12 +1068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sleep Functionality for Adafruit MacroPad RP2040",
+            "homepage": null,
             "id": 457438878,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2022-02-18T19:07:43Z",
+            "open_issues": 1,
             "owner": "M-Eldin",
             "repo": "Adafruit-MacroPad-RP2040-Sleep",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -792,12 +1089,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hotkeys and general infrastructure for RP2040 MacroPad using CircuitPython",
+            "homepage": null,
             "id": 498187513,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-03T04:34:29Z",
+            "open_issues": 0,
             "owner": "rossmoody",
             "repo": "macropad-hotkeys",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "adafruit",
+              "circuit-python",
+              "hotkeys",
+              "macropad",
+              "macropad-hotkeys",
+              "macros",
+              "raspberry-pi",
+              "rotary-encoder",
+              "rp2040"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -808,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MicroPython board support/definition for Adafruit MacroPad",
+            "homepage": null,
             "id": 398706586,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-22T04:00:17Z",
+            "open_issues": 0,
             "owner": "mp-extras",
             "repo": "ADAFRUIT_MACROPAD",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -824,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A way to read and write Adafruit Macropad settings to non-volatile memory",
+            "homepage": null,
             "id": 881926843,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-17T13:31:23Z",
+            "open_issues": 0,
             "owner": "calbert1209",
             "repo": "mgogo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         }
@@ -838,15 +1160,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:22:24.729Z",
+    "last_updated": "2026-08-29T04:45:24.457Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
+      "homepage": null,
       "id": 434300126,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-07-06T15:30:05Z",
+      "open_issues": 0,
       "owner": "prcutler",
       "repo": "awesome-macropad",
-      "stars": 358
+      "stars": 358,
+      "topics": [
+        "3d-printing",
+        "adafruit",
+        "awesome",
+        "awesome-list",
+        "circuitpython",
+        "macropad",
+        "macros",
+        "rp2040"
+      ]
     },
     "original_repository_sha": "f8dd814b687e07f3a70b14489b8f8f446cb20a77",
     "enhanced_repository": "enhansome/enhansome-macropad",
