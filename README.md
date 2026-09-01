@@ -71,7 +71,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 * [MacroPad Automation and Application Detector](https://github.com/xhargh/MacropadApplicationDetector) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2022-06-10 is a Windows application that detects the currently active window and automatically switches to the appropriate set of macros for that application by xhargh.
 * [Multiple MarcoPad Apps](https://github.com/ondras/macropad) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-12-14 by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.
 * [Open Broadcaster Software (OBS](https://github.com/djotaku/MacroPad_rp2040_hotkeys) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-03-13) by djotaku
-* [PyCurrentWindow](https://github.com/astridos2go/PyCurrentWindow) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2023-05-11 automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)
+* [PyCurrentWindow](https://github.com/astridos2go/PyCurrentWindow) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2023-05-11 automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)
 * [METAR Display and airport status](https://github.com/flyinactor91/metarpad) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-08-07 by flyinactor91
 * [HP35 Calculator](https://github.com/funkfinger/adafruit-MacroPad-hp-35-calc) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2021-11-16 by funkfinger
 * [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-08-25, a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2025-05-16 by obtusecanadiangoose
