@@ -342,7 +342,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-05-11T00:49:14Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "astridos2go",
             "repo": "PyCurrentWindow",
             "stars": 8,
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:32:37.740Z",
+    "last_updated": "2026-09-02T23:32:27.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
