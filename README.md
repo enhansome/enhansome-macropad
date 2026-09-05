@@ -28,7 +28,7 @@
 
 ## MacroPad Hotkeys II
 
-Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II ([GitHub repository](https://github.com/deckerego/Macropad_Hotkeys) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2026-05-03 and [Hackaday project page](https://hackaday.io/project/181969-macropad-hotkeys-ii)) by [DeckerEgo](https://hackaday.io/deckerego). It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes [example macros](https://github.com/deckerego/Macropad_Hotkeys/wiki) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2026-05-03 for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - [Overview video](https://youtu.be/rzTTRM9xGms?si=wOAUS7BPDiVwQkXy)
+Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II ([GitHub repository](https://github.com/deckerego/Macropad_Hotkeys) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-05-03 and [Hackaday project page](https://hackaday.io/project/181969-macropad-hotkeys-ii)) by [DeckerEgo](https://hackaday.io/deckerego). It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes [example macros](https://github.com/deckerego/Macropad_Hotkeys/wiki) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-05-03 for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - [Overview video](https://youtu.be/rzTTRM9xGms?si=wOAUS7BPDiVwQkXy)
 
 ## MacroPad Hardware
 
@@ -62,7 +62,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 ## Applications
 
 * The [T9 Predictive MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main) ⭐ 56 | 🐛 4 | 🌐 Kotlin | 📅 2026-05-29 is available for a number of boards, [including the Adafruit MacroPad](https://github.com/dupontgu/t9-macropad-circuitpython/tree/main/fw) ⭐ 56 | 🐛 4 | 🌐 Kotlin | 📅 2026-05-29 by Guy Dupont.
-* [The MacroPad 4chord MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2025-11-09 is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego. [Demonstration Video](https://www.youtube.com/watch?v=Ifc-n-RV3Ag)
+* [The MacroPad 4chord MIDI](https://github.com/deckerego/Macropad_4chord_MIDI) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2025-11-09 is built to play simple chord progressions as a MIDI device on a rp2040 MacroPad by deckerego. [Demonstration Video](https://www.youtube.com/watch?v=Ifc-n-RV3Ag)
 * [App Pad](https://github.com/kbaskett248/adafruit_macropad) ⭐ 49 | 🐛 8 | 🌐 Python | 📅 2023-01-15 An advanced port of Adafruit's MarcoPad application that adds switching macros by keys, OS-specific variants, double-tap support, and callback timers by kbaskett248.
 * [MacroPad-Sequencer](https://github.com/analogsketchbook/MacroPad-Sequencer) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2022-05-08 by analogsketchbook, an 8-step MIDI sequencer.
 * [Macro Hotkeys + Extensions](https://github.com/notnavindu/adafruit-macropad-hotkeys-with-extensions) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-05-31 Modified version of Adafruit's [Hotkeys](https://learn.adafruit.com/macropad-hotkeys) script. Includes a Pomodoro timer, Bongo Cat and support to write your own extensions. By notnavindu
@@ -73,7 +73,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 * [Open Broadcaster Software (OBS](https://github.com/djotaku/MacroPad_rp2040_hotkeys) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-03-13) by djotaku
 * [PyCurrentWindow](https://github.com/astridos2go/PyCurrentWindow) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2023-05-11 automatically detects the focused application and automatically changes to the correct macros by astridos2go. (Windows only)
 * [METAR Display and airport status](https://github.com/flyinactor91/metarpad) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-08-07 by flyinactor91
-* [HP35 Calculator](https://github.com/funkfinger/adafruit-MacroPad-hp-35-calc) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2021-11-16 by funkfinger
+* [HP35 Calculator](https://github.com/funkfinger/adafruit-MacroPad-hp-35-calc) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2021-11-16 by funkfinger
 * [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-08-25, a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2025-05-16 by obtusecanadiangoose
 * [WOLFPUNK Chord Machine](https://github.com/wolfpunk25/wolfpunk-chords) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-06-15 by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.
 * [MIDI Launchgrid](https://github.com/zoul0813/adafruit-launchgrid) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-08-05 by zoul0813
@@ -100,7 +100,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 ## Macros
 
 * [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) ⭐ 358 | 🐛 0 | 📅 2026-07-06 for unlocked and unattended Windows workstations by nihilexmachina.
-* [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/MacroPad_Hotkeys) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2026-05-03 by deckerego
+* [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/MacroPad_Hotkeys) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-05-03 by deckerego
 * Macros including a [universal numpad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy
 * A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy.
 * [YouTube macros for Microsoft Windows](https://github.com/DJDevon3/My_Circuit_Python_Projects/blob/main/Boards/raspberrypi/Adafruit%20Macropad%20RP2040/Jons%20Macropad/macros/win-youtube.py) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-07-26 by DJDevon3
@@ -209,4 +209,4 @@ Last Updated: July 6, 2026
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

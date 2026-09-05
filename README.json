@@ -144,7 +144,7 @@
             "open_issues": 1,
             "owner": "deckerego",
             "repo": "Macropad_4chord_MIDI",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "adafruit",
               "circuitpython",
@@ -390,7 +390,7 @@
             "open_issues": 0,
             "owner": "funkfinger",
             "repo": "adafruit-macropad-hp-35-calc",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
@@ -731,7 +731,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-03T13:59:33Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "deckerego",
             "repo": "Macropad_Hotkeys",
             "stars": 55,
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:17:39.951Z",
+    "last_updated": "2026-09-05T23:15:37.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
