@@ -704,7 +704,7 @@
             "open_issues": 0,
             "owner": "prcutler",
             "repo": "awesome-macropad",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "3d-printing",
               "adafruit",
@@ -731,7 +731,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-03T13:59:33Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "deckerego",
             "repo": "Macropad_Hotkeys",
             "stars": 55,
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:15:37.140Z",
+    "last_updated": "2026-09-06T23:07:44.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
@@ -1172,7 +1172,7 @@
       "open_issues": 0,
       "owner": "prcutler",
       "repo": "awesome-macropad",
-      "stars": 358,
+      "stars": 359,
       "topics": [
         "3d-printing",
         "adafruit",

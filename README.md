@@ -28,7 +28,7 @@
 
 ## MacroPad Hotkeys II
 
-Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II ([GitHub repository](https://github.com/deckerego/Macropad_Hotkeys) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-05-03 and [Hackaday project page](https://hackaday.io/project/181969-macropad-hotkeys-ii)) by [DeckerEgo](https://hackaday.io/deckerego). It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes [example macros](https://github.com/deckerego/Macropad_Hotkeys/wiki) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-05-03 for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - [Overview video](https://youtu.be/rzTTRM9xGms?si=wOAUS7BPDiVwQkXy)
+Looking to get more out of your MacroPad and build upon the default Adafruit MacroPad experience? Check out MacroPad Hotkeys II ([GitHub repository](https://github.com/deckerego/Macropad_Hotkeys) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2026-05-03 and [Hackaday project page](https://hackaday.io/project/181969-macropad-hotkeys-ii)) by [DeckerEgo](https://hackaday.io/deckerego). It improves the default Macropad experience by adding support for multi-page macros, mount the Macropad in read-only mode, and maybe most importantly, sleep the display and add a display timeout to avoid OLED burn-in, and more. - It also includes [example macros](https://github.com/deckerego/Macropad_Hotkeys/wiki) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2026-05-03 for Blender, DaVinci Resolve, Audacity, a Number Pad, and more. - [Overview video](https://youtu.be/rzTTRM9xGms?si=wOAUS7BPDiVwQkXy)
 
 ## MacroPad Hardware
 
@@ -99,8 +99,8 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 
 ## Macros
 
-* [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) ⭐ 358 | 🐛 0 | 📅 2026-07-06 for unlocked and unattended Windows workstations by nihilexmachina.
-* [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/MacroPad_Hotkeys) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-05-03 by deckerego
+* [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) ⭐ 359 | 🐛 0 | 📅 2026-07-06 for unlocked and unattended Windows workstations by nihilexmachina.
+* [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/MacroPad_Hotkeys) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2026-05-03 by deckerego
 * Macros including a [universal numpad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy
 * A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy.
 * [YouTube macros for Microsoft Windows](https://github.com/DJDevon3/My_Circuit_Python_Projects/blob/main/Boards/raspberrypi/Adafruit%20Macropad%20RP2040/Jons%20Macropad/macros/win-youtube.py) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-07-26 by DJDevon3
@@ -181,11 +181,11 @@ The workflow is similar to the one explained in detail here for CircuitPython: [
 
 ### Contribution Workflow Overview
 
-You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) ⭐ 358 | 🐛 0 | 📅 2026-07-06 or send a pull request to add your MacroPad creation to the awesome-list.
+You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) ⭐ 359 | 🐛 0 | 📅 2026-07-06 or send a pull request to add your MacroPad creation to the awesome-list.
 
 If you would like to submit a pull request:
 
-1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) ⭐ 358 | 🐛 0 | 📅 2026-07-06 on GitHub.
+1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) ⭐ 359 | 🐛 0 | 📅 2026-07-06 on GitHub.
 2. Clone the forked repo to your drive.
 3. Add a remote using owner adafruit and the original URL.
 4. Fetch the remote.
@@ -209,4 +209,4 @@ Last Updated: July 6, 2026
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
