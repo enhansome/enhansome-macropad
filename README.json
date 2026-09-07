@@ -730,8 +730,8 @@
             "id": 404501727,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-05-03T13:59:33Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-07T21:11:07Z",
+            "open_issues": 0,
             "owner": "deckerego",
             "repo": "Macropad_Hotkeys",
             "stars": 55,
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:07:44.548Z",
+    "last_updated": "2026-09-07T23:44:43.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
