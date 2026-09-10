@@ -93,7 +93,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2025-12-25T10:53:10Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "AlexanderPotashko",
             "repo": "macropad-configurator",
             "stars": 2,
@@ -704,7 +704,7 @@
             "open_issues": 0,
             "owner": "prcutler",
             "repo": "awesome-macropad",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "3d-printing",
               "adafruit",
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:29:33.014Z",
+    "last_updated": "2026-09-10T23:22:56.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
@@ -1172,7 +1172,7 @@
       "open_issues": 0,
       "owner": "prcutler",
       "repo": "awesome-macropad",
-      "stars": 360,
+      "stars": 361,
       "topics": [
         "3d-printing",
         "adafruit",
