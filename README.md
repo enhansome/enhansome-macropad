@@ -56,7 +56,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 
 ## Configuration Utilities
 
-* [Manage your MacroPad via a WebUI](https://github.com/mchilli/macropad) ⭐ 37 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-23 by MCHilli
+* [Manage your MacroPad via a WebUI](https://github.com/mchilli/macropad) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-23 by MCHilli
 * [MacroPad Configurator by AlexanderPotashko](https://github.com/AlexanderPotashko/macropad-configurator) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2025-12-25 is a Windows application to configure your MacroPad. It can audo-detect your Macropad, manage multiple profiles, includes a visual editor and keyboard, includes 12 pre-configured macro templates, and more.
 
 ## Applications
@@ -209,4 +209,4 @@ Last Updated: July 6, 2026
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

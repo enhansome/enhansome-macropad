@@ -64,7 +64,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-02-23T17:43:00Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "mchilli",
             "repo": "macropad",
             "stars": 37,
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:58:24.505Z",
+    "last_updated": "2026-09-15T23:40:54.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
