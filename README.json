@@ -704,7 +704,7 @@
             "open_issues": 0,
             "owner": "prcutler",
             "repo": "awesome-macropad",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "3d-printing",
               "adafruit",
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:16:11.121Z",
+    "last_updated": "2026-09-22T23:47:58.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
@@ -1172,7 +1172,7 @@
       "open_issues": 0,
       "owner": "prcutler",
       "repo": "awesome-macropad",
-      "stars": 361,
+      "stars": 362,
       "topics": [
         "3d-printing",
         "adafruit",

@@ -99,7 +99,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 
 ## Macros
 
-* [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) ⭐ 361 | 🐛 0 | 📅 2026-07-06 for unlocked and unattended Windows workstations by nihilexmachina.
+* [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) ⭐ 362 | 🐛 0 | 📅 2026-07-06 for unlocked and unattended Windows workstations by nihilexmachina.
 * [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/MacroPad_Hotkeys) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-09-07 by deckerego
 * Macros including a [universal numpad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy
 * A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy.
@@ -181,11 +181,11 @@ The workflow is similar to the one explained in detail here for CircuitPython: [
 
 ### Contribution Workflow Overview
 
-You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) ⭐ 361 | 🐛 0 | 📅 2026-07-06 or send a pull request to add your MacroPad creation to the awesome-list.
+You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) ⭐ 362 | 🐛 0 | 📅 2026-07-06 or send a pull request to add your MacroPad creation to the awesome-list.
 
 If you would like to submit a pull request:
 
-1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) ⭐ 361 | 🐛 0 | 📅 2026-07-06 on GitHub.
+1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) ⭐ 362 | 🐛 0 | 📅 2026-07-06 on GitHub.
 2. Clone the forked repo to your drive.
 3. Add a remote using owner adafruit and the original URL.
 4. Fetch the remote.
