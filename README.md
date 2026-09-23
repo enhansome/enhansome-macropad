@@ -75,7 +75,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 * [METAR Display and airport status](https://github.com/flyinactor91/metarpad) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-08-07 by flyinactor91
 * [HP35 Calculator](https://github.com/funkfinger/adafruit-MacroPad-hp-35-calc) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2021-11-16 by funkfinger
 * [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-08-25, a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2025-05-16 by obtusecanadiangoose
-* [WOLFPUNK Chord Machine](https://github.com/wolfpunk25/wolfpunk-chords) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-06-15 by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.
+* [WOLFPUNK Chord Machine](https://github.com/wolfpunk25/wolfpunk-chords) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-06-15 by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.
 * [MIDI Launchgrid](https://github.com/zoul0813/adafruit-launchgrid) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-08-05 by zoul0813
 * [homebridge-macropad](https://github.com/maximkulkin/homebridge-macropad) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2022-08-18 by maximkulkin is a Homebridge plugin to integrate an Adafruit rp2040 MacroPad into HomeKit using TypeScript.
 * [The MacropadPyDemo is a rewrite of the Arduino demo in CircuitPython](https://github.com/haugenmitch/MacropadPyDemo) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-12-09 by haugenmitch
@@ -99,7 +99,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 
 ## Macros
 
-* [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) ⭐ 362 | 🐛 0 | 📅 2026-07-06 for unlocked and unattended Windows workstations by nihilexmachina.
+* [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) ⭐ 363 | 🐛 0 | 📅 2026-07-06 for unlocked and unattended Windows workstations by nihilexmachina.
 * [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/MacroPad_Hotkeys) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-09-07 by deckerego
 * Macros including a [universal numpad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy
 * A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy.
@@ -181,11 +181,11 @@ The workflow is similar to the one explained in detail here for CircuitPython: [
 
 ### Contribution Workflow Overview
 
-You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) ⭐ 362 | 🐛 0 | 📅 2026-07-06 or send a pull request to add your MacroPad creation to the awesome-list.
+You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) ⭐ 363 | 🐛 0 | 📅 2026-07-06 or send a pull request to add your MacroPad creation to the awesome-list.
 
 If you would like to submit a pull request:
 
-1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) ⭐ 362 | 🐛 0 | 📅 2026-07-06 on GitHub.
+1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) ⭐ 363 | 🐛 0 | 📅 2026-07-06 on GitHub.
 2. Clone the forked repo to your drive.
 3. Add a remote using owner adafruit and the original URL.
 4. Fetch the remote.
@@ -209,4 +209,4 @@ Last Updated: July 6, 2026
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
