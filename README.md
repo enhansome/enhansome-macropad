@@ -99,7 +99,6 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 
 ## Macros
 
-* [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) ⭐ 365 | 🐛 0 | 📅 2026-07-06 for unlocked and unattended Windows workstations by nihilexmachina.
 * [Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom](https://github.com/deckerego/MacroPad_Hotkeys) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-09-07 by deckerego
 * Macros including a [universal numpad, macOS media control keys, Zoom, and Webex macros](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy
 * A collection of macros for Windows and macOS that includes a [universal numpad, macOS media control keys, Zoom, Webex, Discord, Sea of Thieves, and more](https://github.com/armccoy/macropad-rp2040-hotkeys) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-04 by armccoy.
@@ -114,6 +113,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 * A [collection of macros for Windows and Linux by nylar357](https://github.com/nylar357/macropad_custom) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-12-03 including GitHub, Firefox, Sleep, Twitter, Vim, and more.
 * [Final Fantasy XIV](https://github.com/Radical-Dreamr/adafruit_MacroPad_ffxiv) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2021-08-17 by Radical Dreamr
 * [Simple macro profile for Kicad](https://github.com/corndog2000/RP2040-MACROPAD-KICAD) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-08-27 designed to keep one hand on the macropad and your other hand on your mouse when in the PCB editor.
+* [A funny vulnerability demonstration](https://github.com/prcutler/awesome-macropad) for unlocked and unattended Windows workstations by nihilexmachina.
 * [Helldivers 2 Stratagem macros](https://adafruit-playground.com/u/squid_jpg/pages/easy-helldivers-ii-stratagem-macros-for-rp2040-macropad) by squid\_jpg
 
 ## Other
@@ -181,11 +181,11 @@ The workflow is similar to the one explained in detail here for CircuitPython: [
 
 ### Contribution Workflow Overview
 
-You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) ⭐ 365 | 🐛 0 | 📅 2026-07-06 or send a pull request to add your MacroPad creation to the awesome-list.
+You can either add a thread to our [GitHub Discussions](https://github.com/prcutler/awesome-macropad/discussions) or send a pull request to add your MacroPad creation to the awesome-list.
 
 If you would like to submit a pull request:
 
-1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) ⭐ 365 | 🐛 0 | 📅 2026-07-06 on GitHub.
+1. Fork [this repository](https://github.com/prcutler/awesome-MacroPad) on GitHub.
 2. Clone the forked repo to your drive.
 3. Add a remote using owner adafruit and the original URL.
 4. Fetch the remote.

@@ -690,36 +690,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "A funny vulnerability demonstration",
-          "description": "for unlocked and unattended Windows workstations by nihilexmachina.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
-            "homepage": null,
-            "id": 434300126,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-06T15:30:05Z",
-            "open_issues": 0,
-            "owner": "prcutler",
-            "repo": "awesome-macropad",
-            "stars": 365,
-            "topics": [
-              "3d-printing",
-              "adafruit",
-              "awesome",
-              "awesome-list",
-              "circuitpython",
-              "macropad",
-              "macros",
-              "rp2040"
-            ]
-          },
-          "first_seen": "2026-08-28T05:36:11.611Z"
-        },
-        {
-          "node_type": "item",
           "title": "Macros for Blender, Safari, MIDI drum kit, generic number pad and Zoom",
           "description": "by deckerego",
           "children": [],
@@ -1160,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:43:15.143Z",
+    "last_updated": "2026-10-03T04:55:00.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
