@@ -120,7 +120,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 
 * [Fruity Menu](https://github.com/greatest-gatsby/fruity_menu) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-05-02 is a library for building simple UI menus for CircuitPython powered devices, including the rp2040 MacroPad.
 * Put your MacroPad to [sleep after 5 minutes](https://github.com/M-Eldin/Adafruit-MacroPad-RP2040-Sleep) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2022-02-18 by m-eldin
-* [A refactored implementation](https://github.com/rossmoody/macropad-hotkeys) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-06-03 of the [MacroPad helper library](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad) ⭐ 99 | 🐛 5 | 🌐 Python | 📅 2026-04-23 by rossmoody
+* [A refactored implementation](https://github.com/rossmoody/macropad-hotkeys) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-06-03 of the [MacroPad helper library](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad) ⭐ 98 | 🐛 5 | 🌐 Python | 📅 2026-04-23 by rossmoody
 * [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2021-08-22 by mp-extras
 * [Mgogo](https://github.com/calbert1209/mgogo) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2024-11-17 is a library to convert Adafruit MacroPad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.
 
@@ -209,4 +209,4 @@ Last Updated: July 6, 2026
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
