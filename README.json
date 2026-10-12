@@ -704,7 +704,7 @@
             "open_issues": 0,
             "owner": "deckerego",
             "repo": "Macropad_Hotkeys",
-            "stars": 56,
+            "stars": 55,
             "topics": [
               "adafruit",
               "circuitpython",
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:27:21.018Z",
+    "last_updated": "2026-10-12T00:43:05.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
@@ -1142,7 +1142,7 @@
       "open_issues": 0,
       "owner": "prcutler",
       "repo": "awesome-macropad",
-      "stars": 367,
+      "stars": 366,
       "topics": [
         "3d-printing",
         "adafruit",
