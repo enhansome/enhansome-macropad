@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "todbot",
             "repo": "macropadsynthplug",
-            "stars": 53,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
@@ -224,29 +224,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bongo Cat",
-          "description": "by christanaka",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A cute bongo cat for your display.",
-            "homepage": null,
-            "id": 409018231,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2021-09-22T04:24:32Z",
-            "open_issues": 1,
-            "owner": "christanaka",
-            "repo": "circuitpython-bongo",
-            "stars": 11,
-            "topics": [
-              "circuitpython"
-            ]
-          },
-          "first_seen": "2026-08-28T05:36:11.611Z"
-        },
-        {
-          "node_type": "item",
           "title": "BeePad",
           "description": "by trickeydan",
           "children": [],
@@ -263,6 +240,29 @@
             "repo": "beepad",
             "stars": 10,
             "topics": []
+          },
+          "first_seen": "2026-08-28T05:36:11.611Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bongo Cat",
+          "description": "by christanaka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A cute bongo cat for your display.",
+            "homepage": null,
+            "id": 409018231,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2021-09-22T04:24:32Z",
+            "open_issues": 1,
+            "owner": "christanaka",
+            "repo": "circuitpython-bongo",
+            "stars": 10,
+            "topics": [
+              "circuitpython"
+            ]
           },
           "first_seen": "2026-08-28T05:36:11.611Z"
         },
@@ -1117,7 +1117,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-11-17T13:31:23Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "calbert1209",
             "repo": "mgogo",
             "stars": 0,
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:30:02.865Z",
+    "last_updated": "2026-11-13T02:07:17.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",

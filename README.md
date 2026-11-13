@@ -33,7 +33,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 ## MacroPad Hardware
 
 * [PCB files](https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB) ⭐ 57 | 🐛 0 | 📅 2024-06-27 in EagleCAD schematic format.
-* [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2025-05-16 is a small board that plugs into the StemmaQT port and gives you TRS-A MIDI In and Audio line out and allows it to be a stand-alone MIDI synth by todbot.
+* [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2025-05-16 is a small board that plugs into the StemmaQT port and gives you TRS-A MIDI In and Audio line out and allows it to be a stand-alone MIDI synth by todbot.
 * [MacroPad Hardware on Adafruit.com](https://www.adafruit.com/?q=MacroPad\&sort=BestMatch)
 * [Stemma QT add-on boards from Adafruit](https://www.adafruit.com/?q=stemma+qt\&sort=BestMatch)
 * [Keycaps from Adafruit](https://www.adafruit.com/?q=keycaps\&sort=BestMatch)
@@ -66,8 +66,8 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 * [App Pad](https://github.com/kbaskett248/adafruit_macropad) ⭐ 49 | 🐛 8 | 🌐 Python | 📅 2023-01-15 An advanced port of Adafruit's MarcoPad application that adds switching macros by keys, OS-specific variants, double-tap support, and callback timers by kbaskett248.
 * [MacroPad-Sequencer](https://github.com/analogsketchbook/MacroPad-Sequencer) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2022-05-08 by analogsketchbook, an 8-step MIDI sequencer.
 * [Macro Hotkeys + Extensions](https://github.com/notnavindu/adafruit-macropad-hotkeys-with-extensions) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-05-31 Modified version of Adafruit's [Hotkeys](https://learn.adafruit.com/macropad-hotkeys) script. Includes a Pomodoro timer, Bongo Cat and support to write your own extensions. By notnavindu
-* [Bongo Cat](https://github.com/christanaka/circuitpython-bongo) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2021-09-22 by christanaka
 * [BeePad](https://github.com/trickeydan/beepad) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2021-10-27 by trickeydan
+* [Bongo Cat](https://github.com/christanaka/circuitpython-bongo) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2021-09-22 by christanaka
 * [MacroPad Automation and Application Detector](https://github.com/xhargh/MacropadApplicationDetector) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2022-06-10 is a Windows application that detects the currently active window and automatically switches to the appropriate set of macros for that application by xhargh.
 * [Multiple MarcoPad Apps](https://github.com/ondras/macropad) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-12-14 by Ondřej Žára. Hotkey mappings for git, MIDI tones and/or chords, Elite:Dangerous game, DaVinci Resolve Color grading and more.
 * [Open Broadcaster Software (OBS](https://github.com/djotaku/MacroPad_rp2040_hotkeys) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-03-13) by djotaku
@@ -75,7 +75,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 * [METAR Display and airport status](https://github.com/flyinactor91/metarpad) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-08-07 by flyinactor91
 * [HP35 Calculator](https://github.com/funkfinger/adafruit-MacroPad-hp-35-calc) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2021-11-16 by funkfinger
 * [WOLFPUNK Chord Machine](https://github.com/wolfpunk25/wolfpunk-chords) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-06-15 by wolfpunk25. Transform your MacroPad into a powerful chord and arpeggiator performance tool with rich LED feedback and a dynamic OLED interface.
-* [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-08-25, a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2025-05-16 by obtusecanadiangoose
+* [MacroSynth](https://github.com/obtusecanadiangoose/macrosynth) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-08-25, a basic osc synthesizer using Todbot's [MacroPadSynthPlug](https://github.com/todbot/macropadsynthplug) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2025-05-16 by obtusecanadiangoose
 * [MIDI Launchgrid](https://github.com/zoul0813/adafruit-launchgrid) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-08-05 by zoul0813
 * [homebridge-macropad](https://github.com/maximkulkin/homebridge-macropad) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2022-08-18 by maximkulkin is a Homebridge plugin to integrate an Adafruit rp2040 MacroPad into HomeKit using TypeScript.
 * [The MacropadPyDemo is a rewrite of the Arduino demo in CircuitPython](https://github.com/haugenmitch/MacropadPyDemo) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2023-12-09 by haugenmitch
@@ -122,7 +122,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 * Put your MacroPad to [sleep after 5 minutes](https://github.com/M-Eldin/Adafruit-MacroPad-RP2040-Sleep) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2022-02-18 by m-eldin
 * [A refactored implementation](https://github.com/rossmoody/macropad-hotkeys) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-06-03 of the [MacroPad helper library](https://github.com/adafruit/Adafruit_CircuitPython_MacroPad) ⭐ 99 | 🐛 5 | 🌐 Python | 📅 2026-11-03 by rossmoody
 * [MicroPython Board Support](https://github.com/mp-extras/ADAFRUIT_MacroPad) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2021-08-22 by mp-extras
-* [Mgogo](https://github.com/calbert1209/mgogo) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2024-11-17 is a library to convert Adafruit MacroPad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.
+* [Mgogo](https://github.com/calbert1209/mgogo) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2024-11-17 is a library to convert Adafruit MacroPad RP4020 settings to and from binary for read and write to the microcontroller's non-volatile memory.
 
 ## 3D Printed Cases
 
@@ -209,4 +209,4 @@ Last Updated: July 6, 2026
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
