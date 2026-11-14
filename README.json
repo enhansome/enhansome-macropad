@@ -1117,7 +1117,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-11-17T13:31:23Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "calbert1209",
             "repo": "mgogo",
             "stars": 0,
@@ -1130,7 +1130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:07:17.374Z",
+    "last_updated": "2026-11-14T01:44:28.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.",
