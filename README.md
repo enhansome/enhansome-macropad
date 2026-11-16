@@ -82,7 +82,7 @@ Looking to get more out of your MacroPad and build upon the default Adafruit Mac
 * Send MIDI commands to a loop pedal using the Adafruit MacroPad with [MIDILooper](https://github.com/dxinteractive/macropad-midilooper) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2024-10-06 by dxinteractive.
 * [BuildPad](https://github.com/willgorman/buildpad) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2021-11-25 by willgorman, a build automation tool for viewing and launching Jenkins jobs.
 * A [CHIP-8 emulator](https://github.com/cubbagesj/macropad_CHIP8) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2024-08-05 for the Adafruit MacroPad by cubbagesj
-* [cloudfx by Wchesher](https://github.com/wchesher/cloudfx) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-15 turns two Adafruit devices into a sound effect and macro controller system, such as a MacroPad and FunHouse.
+* [cloudfx by Wchesher](https://github.com/wchesher/cloudfx) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-11-15 turns two Adafruit devices into a sound effect and macro controller system, such as a MacroPad and FunHouse.
 * [Multiple Timers](https://github.com/alpiepho/MacroPad-timers) by alpiepho, a timer application that implements a set of 12 independent timers.
 * [The MacroPad Jukebox](https://www.hackster.io/iotitlan/the-macropad-jukebox-3d2c99) by Carlos Olmos
 * [Media hub and control with optional Bluetooth](https://adafruit-playground.com/u/Alain_ManHW/pages/media-hub-media-control-w-opt-bluetooth) by Alain\_ManHW
@@ -209,4 +209,4 @@ Last Updated: July 6, 2026
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
